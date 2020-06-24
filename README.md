@@ -1,0 +1,2 @@
+# Appveyor
+hexo
